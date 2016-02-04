@@ -1,0 +1,35 @@
+{
+  "name": "observ-sync-length",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Sync the length of two observ-array arrays",
+  "license": "MIT",
+  "repository": "bendrucker/observ-sync-length",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "array",
+    "observ",
+    "observable",
+    "observ-array"
+  ],
+  "devDependencies": {
+    "observ-array": "~3.2.1",
+    "standard": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "assert-observ": "~1.0.0",
+    "map-times": "~1.0.0"
+  }
+}
