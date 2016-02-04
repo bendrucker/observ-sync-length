@@ -1,7 +1,7 @@
 {
   "name": "observ-sync-length",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sync the length of two observ-array arrays",
   "license": "MIT",
   "repository": "bendrucker/observ-sync-length",
