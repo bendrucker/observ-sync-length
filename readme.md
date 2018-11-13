@@ -1,4 +1,4 @@
-# observ-sync-length [![Build Status](https://travis-ci.org/bendrucker/observ-sync-length.svg?branch=master)](https://travis-ci.org/bendrucker/observ-sync-length)
+# observ-sync-length [![Build Status](https://travis-ci.org/bendrucker/observ-sync-length.svg?branch=master)](https://travis-ci.org/bendrucker/observ-sync-length) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-sync-length.svg)](https://greenkeeper.io/)
 
 > Sync the length of two observ-array arrays
 
